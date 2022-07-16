@@ -1,13 +1,12 @@
 #### Hi there 👋
 
-I'm Fullstack Developer a Full
-
+I'm a Fullstack Developer && Telecom Engineer who loves to research, learn and apply new features and good practices. 
 ---
 
 ##### My Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,css,gatsby,git,graphql,html,js,mysql,nextjs,nodejs,prisma,react,sass,supabase,svelte,tailwind,ts,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,ts,react,nodejs,express,mongo,graphql,postgres,nextjs,git,vscode,docker,linux,mui,ps,vercel&perline=5" />
   </a>
 </p>
