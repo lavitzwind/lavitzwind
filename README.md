@@ -3,7 +3,7 @@
 I'm Leonardo a Fullstack Developer && Telecom Engineer who loves to research, learn and apply new features and good practices. 
 ---
 
-##### My Skills
+##### My Skills:
 
 <p align="left">
   <a href="https://skillicons.dev">
