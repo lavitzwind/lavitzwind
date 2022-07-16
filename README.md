@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-I'm a Fullstack Developer && Telecom Engineer who loves to research, learn and apply new features and good practices. 
+I'm Leonardo a Fullstack Developer && Telecom Engineer who loves to research, learn and apply new features and good practices. 
 ---
 
 ##### My Skills
